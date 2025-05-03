@@ -8,7 +8,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="center" height="250" alt="coding-time" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
+    <img align="center" height="250" alt="coding-time" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
     <h2 align="center">Melhores Tecnologias!</h2>
     <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
